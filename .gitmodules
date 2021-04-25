@@ -1,0 +1,4 @@
+[submodule "gokansas.github.io/public"]
+	path = gokansas.github.io/public
+	url = https://github.com/gokansas/gokansas.github.io
+	branch = main
