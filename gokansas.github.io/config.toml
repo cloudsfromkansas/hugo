@@ -9,7 +9,7 @@ buildExpired = false
 
 [params]
 title = "Code by Ryan"
-description = "A software engineering blog."
+description = "Software Engineering Blog"
 keywords = [ "Blog"]
 author = "Ryan"
 DateFormat = "January 2, 2006"
@@ -52,7 +52,7 @@ tocopen = false
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/gokansas/gokansas.github.io/content"
+  URL = "https://github.com/gokansas/hugo/tree/main/gokansas.github.io/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
